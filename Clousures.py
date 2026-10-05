@@ -6,3 +6,4 @@ def outer ():
     return innner
 fun = outer()
 fun()
+
