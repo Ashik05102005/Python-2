@@ -17,3 +17,4 @@ even_squares = {num**2 for num in numbers if num % 2 == 0}
 print(even_squares)
 
 dict_cube = {num : num ** 3 for num in numbers if num > 5 }
+
